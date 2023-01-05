@@ -4,12 +4,6 @@
 .vscode
 .env
 
-# ml models
-assets/
-
-# incase someone push the build file
-internal_recommendation_service
-
 # Binaries for programs and plugins
 *.exe
 *.exe~
