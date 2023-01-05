@@ -1,0 +1,1 @@
+# gin-go-template-light
